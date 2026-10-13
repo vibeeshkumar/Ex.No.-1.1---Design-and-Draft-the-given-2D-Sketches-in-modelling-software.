@@ -1,48 +1,121 @@
-# Ex.No.-1.1-Design and Draft the given 2D Sketches in modelling software.
+Ex. No. 1.1 - Design and Draft the given 2D Sketches in Modelling Software
 
-## AIM
+Date: 13-10-2026  
+Name: S VIBEESHKUMAR  
+Register No: 26004488  
 
-To sketch the given drawing with dimensions using fusion 360 tool.
+AIM:
+To draw the given 2D sketch with proper dimensions using Autodesk Fusion 360 and convert it into a drawing sheet.
 
-## REQUIREMENTS
+REQUIREMENTS:
 
-  1. Autodesk fusion 360
-  2. Windows 10
-  3. 16 GB of RAM (integrated graphics recommend 2 GB or more)
-  4. 2.5 Mbps or faster download; 500 Kbps or faster upload 
-  
-## PROCEDURE
+Autodesk Fusion 360
+Windows 10 / 11 PC
 
-1.	Open new file and then select sketch icon.
-2.	Select the plane for sketching. 
-3.	Use sketching features (line, circle, arc, rectangle, polygon, etc.,) to draw the given sketch
+TOOLS USED:
 
-![image](https://user-images.githubusercontent.com/113594316/198206497-ca83d495-119b-45cd-b43d-8ca3ea7e9544.png)
+Create Sketch: To start drawing on a plane.
+Line: To draw straight lines.
+Circle: To draw circles.
+Arc: To draw curved lines.
+Trim: To cut and remove extra lines.
+Fillet: To make sharp corners round.
+Dimension: To set the correct size and measurements.
+Drawing: To make the final ISO drawing sheet.
 
-4.	Use sketch modifying features (cut, trim, mirror, move, etc.,) to edit the sketch.
-
-![image](https://user-images.githubusercontent.com/113594316/198206562-68463016-3f32-4a87-aa5b-7a17dd023b31.png)
-
-5.	Use inspect feature to measure the dimensions of sketch.
-
-![image](https://user-images.githubusercontent.com/113594316/198206621-6348e8a3-4bbd-4a1f-96d3-db16fbf933d9.png)
-
-6.	After finishing the sketch use finish sketch option to finalize the sketch.
-
-![image](https://user-images.githubusercontent.com/113594316/198206639-31c4bdb5-b13e-4106-bcf5-125c294aa03e.png)
-
-7.	After finishing the sketch switch to drawing mode to plot the sketch in ISO standard.
-
-![image](https://user-images.githubusercontent.com/113594316/198206697-2e3ead2b-7d1e-436e-bc36-aa2e73c1e78e.png)
-
-![image](https://user-images.githubusercontent.com/113594316/198206721-8ad45462-2675-4be2-964f-621c8fc4490e.png)
-
-
-## SKETCHS
-![image](https://user-images.githubusercontent.com/113594316/198208087-87ed794e-5f1c-4583-82e0-f29699dfc305.png)
-
-## OUTPUT
+PROCEDURE:
+1. Open Autodesk Fusion 360 and start a new design.
+2. Check the document settings and make sure the units are in mm (millimeters).
+3. Click on Create Sketch and select the XY plane.
+4. Use the Line, Circle, and Arc tools to draw the shape according to the given diagram.
+5. Use the Dimension (D) tool to give the correct lengths, radius, and diameters as shown in the question.
+6. Make sure all lines turn black, meaning the sketch is fully locked with dimensions.
+7. Use the Trim (T) tool to cut any unwanted or overlapping lines.
+8. Use the Fillet tool to round the corners wherever needed.
+9. Click on Finish Sketch.
+10. Click on Design -> Drawing -> From Design to open the drawing sheet in ISO standard.
+11. Place the base view on the sheet, add all the dimensions, and fill in the title block.
+12. Take screenshots of the sketch and the drawing sheet.
 
 
-## RESULT
-Thus the given sketch is drawn and drafted using fusion 360 tool.
+
+GIVEN SKETCH:
+
+![Given Sketch](https://user-images.githubusercontent.com/113594316/198208087-87ed794e-5f1c-4583-82e0-f29699dfc305.png)
+
+
+OUTPUT:
+
+ 1. Completed 2D Sketch in Fusion 360:
+*(Drop your sketch screenshot here)*
+
+
+
+ 2. Final Drawing Sheet with Dimensions:
+*(Drop your drawing sheet screenshot here)*
+
+
+
+RESULT:
+Thus, the given 2D sketch was successfully drawn and drafted with proper dimensions using Autodesk Fusion 360.Ex. No. 1.1 - Design and Draft the given 2D Sketches in Modelling Software
+
+Date: 13-10-2026  
+Name: V KAMALESH KANNAN  
+Register No: 26011247  
+
+AIM:
+To draw the given 2D sketch with proper dimensions using Autodesk Fusion 360 and convert it into a drawing sheet.
+
+REQUIREMENTS:
+
+Autodesk Fusion 360
+Windows 10 / 11 PC
+
+TOOLS USED:
+
+Create Sketch: To start drawing on a plane.
+Line: To draw straight lines.
+Circle: To draw circles.
+Arc: To draw curved lines.
+Trim: To cut and remove extra lines.
+Fillet: To make sharp corners round.
+Dimension: To set the correct size and measurements.
+Drawing: To make the final ISO drawing sheet.
+
+PROCEDURE:
+1. Open Autodesk Fusion 360 and start a new design.
+2. Check the document settings and make sure the units are in mm (millimeters).
+3. Click on Create Sketch and select the XY plane.
+4. Use the Line, Circle, and Arc tools to draw the shape according to the given diagram.
+5. Use the Dimension (D) tool to give the correct lengths, radius, and diameters as shown in the question.
+6. Make sure all lines turn black, meaning the sketch is fully locked with dimensions.
+7. Use the Trim (T) tool to cut any unwanted or overlapping lines.
+8. Use the Fillet tool to round the corners wherever needed.
+9. Click on Finish Sketch.
+10. Click on Design -> Drawing -> From Design to open the drawing sheet in ISO standard.
+11. Place the base view on the sheet, add all the dimensions, and fill in the title block.
+12. Take screenshots of the sketch and the drawing sheet.
+
+
+
+GIVEN SKETCH:
+
+![Given Sketch](https://user-images.githubusercontent.com/113594316/198208087-87ed794e-5f1c-4583-82e0-f29699dfc305.png)
+
+
+OUTPUT:
+
+ 1. Completed 2D Sketch in Fusion 360:
+ 2. <img width="975" height="635" alt="Screenshot 2026-10-13 160214" src="https://github.com/user-attachments/assets/42494005-3a41-46aa-aedf-fb1ef04ede8f" />
+
+
+
+
+ 3. Final Drawing Sheet with Dimensions:
+ 4. <img width="974" height="682" alt="Screenshot 2026-10-13 151735" src="https://github.com/user-attachments/assets/6a2a2bfc-3b0f-4a3b-9150-649b20541d24" />
+
+
+
+
+RESULT:
+Thus, the given 2D sketch was successfully drawn and drafted with proper dimensions using Autodesk Fusion 360.
